@@ -44,6 +44,3 @@ python extract_patches.py
 python train.py
 python predict.py
 ```
-
-# AGResU-Net
-# AGResU-Net
