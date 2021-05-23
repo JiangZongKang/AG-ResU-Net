@@ -14,14 +14,14 @@ Here are some results predicted by a model trained for 5 epochs :
 
 *   **HGG cases** :
 
-![Optional Text](../docs/images/case_1.png)
-![Optional Text](../docs/images/case_2.png)
+![Optional Text](./docs/images/case_1.png)
+![Optional Text](./docs/images/case_2.png)
 
 
 *   **LGG cases** :
 
-![Optional Text](../docs/images/case_3.png)
-![Optional Text](../docs/images/case_5.png)
+![Optional Text](./docs/images/case_3.png)
+![Optional Text](./docs/images/case_5.png)
 
 ### Requirements
 
